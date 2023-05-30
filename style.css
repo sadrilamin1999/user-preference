@@ -16,7 +16,7 @@ body {
 .btn {
   padding: 5px 8px;
 }
-.main {
+#main {
   background-color: aqua;
   padding: 15px;
 }
