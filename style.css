@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+}
+.container {
+  margin: 0 80px;
+  padding: 40px 0;
+}
+.container select {
+  margin: 20px;
+}
+.btn {
+  padding: 5px 8px;
+}
+.main {
+  background-color: aqua;
+  padding: 15px;
+}
